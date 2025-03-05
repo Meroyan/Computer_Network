@@ -1,0 +1,12 @@
+﻿  send.cpp
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(100,34): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(238,26): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(239,22): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(284,39): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(328,34): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(378,47): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(404,20): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(434,31): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(479,59): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\send\send\send.cpp(536,40): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+  send.vcxproj -> D:\Code\C++\Computer_Network\lab3_1\send\x64\Debug\send.exe

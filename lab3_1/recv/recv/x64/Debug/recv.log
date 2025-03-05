@@ -1,0 +1,5 @@
+﻿  recv.cpp
+D:\Code\C++\Computer_Network\lab3_1\recv\recv\recv.cpp(255,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\C++\Computer_Network\lab3_1\recv\recv\recv.cpp(347,47): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_1\recv\recv\recv.cpp(383,56): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+  recv.vcxproj -> D:\Code\C++\Computer_Network\lab3_1\recv\x64\Debug\recv.exe
