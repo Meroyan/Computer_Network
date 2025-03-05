@@ -1,0 +1,8 @@
+﻿  recv_3.cpp
+D:\Code\C++\Computer_Network\lab3_3\recv_3\recv_3\recv_3.cpp(263,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\C++\Computer_Network\lab3_3\recv_3\recv_3\recv_3.cpp(296,45): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\C++\Computer_Network\lab3_3\recv_3\recv_3\recv_3.cpp(328,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\C++\Computer_Network\lab3_3\recv_3\recv_3\recv_3.cpp(358,45): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\C++\Computer_Network\lab3_3\recv_3\recv_3\recv_3.cpp(542,47): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\recv_3\recv_3\recv_3.cpp(578,56): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+  recv_3.vcxproj -> D:\Code\C++\Computer_Network\lab3_3\recv_3\x64\Debug\recv_3.exe

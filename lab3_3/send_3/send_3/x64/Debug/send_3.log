@@ -1,0 +1,15 @@
+﻿  send_3.cpp
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(126,34): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(283,38): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(316,39): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(397,26): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(398,22): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(443,39): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(493,36): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(502,43): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(558,38): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(576,20): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(612,31): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(657,59): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+D:\Code\C++\Computer_Network\lab3_3\send_3\send_3\send_3.cpp(714,40): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+  send_3.vcxproj -> D:\Code\C++\Computer_Network\lab3_3\send_3\x64\Debug\send_3.exe
