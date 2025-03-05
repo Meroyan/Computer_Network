@@ -1,0 +1,4 @@
+﻿  client.cpp
+D:\Code\C++\Computer_Network\lab1_ChatApp\lab1_client\lab1_client\client.cpp(33,24): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Code\C++\Computer_Network\lab1_ChatApp\lab1_client\lab1_client\client.cpp(80,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  lab1_client.vcxproj -> D:\Code\C++\Computer_Network\lab1_ChatApp\lab1_client\x64\Debug\lab1_client.exe

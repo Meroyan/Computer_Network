@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C\u002B\u002B\\Computer_Network\\lab1_ChatApp\\lab1_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E039B902-51B6-4386-B309-66E875CA5312}|lab1_client\\lab1_client.vcxproj|D:\\Code\\C\u002B\u002B\\Computer_Network\\lab1_ChatApp\\lab1_client\\lab1_client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E039B902-51B6-4386-B309-66E875CA5312}|lab1_client\\lab1_client.vcxproj|solutionrelative:lab1_client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "D:\\Code\\C\u002B\u002B\\Computer_Network\\lab1_ChatApp\\lab1_client\\lab1_client\\client.cpp",
+              "RelativeDocumentMoniker": "lab1_client\\client.cpp",
+              "ToolTip": "D:\\Code\\C\u002B\u002B\\Computer_Network\\lab1_ChatApp\\lab1_client\\lab1_client\\client.cpp",
+              "RelativeToolTip": "lab1_client\\client.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwDgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T03:23:23.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
